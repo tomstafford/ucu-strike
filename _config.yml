@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: About the UCU strike
+description: Why we are striking, and more
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://scotte.github.io/jekyll-clean
+url: https://tomstafford.github.io/ucu-strike/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
