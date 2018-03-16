@@ -21,7 +21,7 @@ Striking staff are those who have most direct contact with students, who are mos
 
 Nobody takes decision to strike easily - we'd all much rather be teaching than striking - but we've been forced to a point where we have to act.
 
-If Universities can't pay their staff in a way that enables them to live in retirement then it is going to make every aspect of University worse for everyone - including students.
+If Universities can't pay their staff in a way that enables them to one day retire then it is going to make every aspect of University worse for everyone - including students.
 
 Yes, teaching hours are lost this academic year, but the benefits of properly compensated staff will be felt by students for generations.
 
