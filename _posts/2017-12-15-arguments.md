@@ -32,6 +32,10 @@ Both staff and Universities will work to minimise the impact of the strikes on s
 
 # The current pension plan is unaffordable
 
-The future health of the USS pension is contested. Obviously an unaffordable scheme is unsustainable, and University staff want a scheme that protects them in retirement as well as people who will be recruited to work at Universities in the future.
+The future health of the USS pension is contested. One set of official figures suggest that the fund doesn't have enough money to pay out without reform (is "in deficit"). But this deficit is not a simple matter of adding up all the asset held by the scheme - it depends on assumptions about how long staff will live, what will happen to the stock market, whether any Universities will close down, etc. Other estimates suggest that the USS pension has enough assets to support pay outs without reforms.
+
+The details of how these valuations are made are technical and beyond the scope of this website. If you're interested, start here: [USS: 2017 Valuation Resources](http://ucu.group.shef.ac.uk/campaigns/pensions/uss-2017-valuation-resources/) 
+
+Obviously an unaffordable scheme is unsustainable, and University staff want a scheme that protects them in retirement as well as people who will be recruited to work at Universities in the future.
 
 Striking staff are calling for a [transparent review of the value of the USS](https://you.38degrees.org.uk/petitions/uss-must-show-its-workings) pension, so everyone can agree on the foundation for any reforms.
