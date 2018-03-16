@@ -34,7 +34,7 @@ Both staff and Universities will work to minimise the impact of the strikes on s
 
 The future health of the USS pension is contested. One set of official figures suggest that the fund doesn't have enough money to pay out without reform (is "in deficit"). But this deficit is not a simple matter of adding up all the asset held by the scheme - it depends on assumptions about how long staff will live, what will happen to the stock market, whether any Universities will close down, etc. Other estimates suggest that the USS pension has enough assets to support pay outs without reforms.
 
-The details of how these valuations are made are technical and beyond the scope of this website. If you're interested, start here: [USS: 2017 Valuation Resources](http://ucu.group.shef.ac.uk/campaigns/pensions/uss-2017-valuation-resources/) 
+The details of how these valuations are made are technical and beyond the scope of this website. If you're interested there is a collection of links on the [USS valuation](https://tomstafford.github.io/ucu-strike/2017/12/14/valuation.html) page.
 
 Obviously an unaffordable scheme is unsustainable, and University staff want a scheme that protects them in retirement as well as people who will be recruited to work at Universities in the future.
 
