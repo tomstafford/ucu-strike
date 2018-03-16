@@ -12,6 +12,8 @@ comments: false
 
 * Petition: [Pension reform is an equality issue](https://platform.organise.org.uk/campaigns/open-letter-to-equality-challenge-unit)
 
+* Petition: [Government should accept a role as guarantor to the USS pension scheme](https://petition.parliament.uk/petitions/214210)
+
 * Crowdfunder: [Legal investigation into mismanagement by the Board of Trustees of the Universities Superannuation Scheme (USS)](https://www.crowdjustice.com/case/fightforpensions/)
 
 * Boycott: [Some Universities seek to punish those taking strike action - Boycott them](https://ucustrike.wordpress.com/academic-boycott-list)
