@@ -14,7 +14,11 @@ Does the pension scheme need reform? Some analyses linked here
 
 * Mike Otsuka: [A comment and query for USS’s CEO](https://medium.com/@mikeotsuka/a-comment-and-query-for-usss-ceo-c1af623c0f84)
 
-* Miek Otsuka: [Would a shift from bonds to growth assets keep the USS afloat?](https://wonkhe.com/blogs/would-a-shift-from-bonds-to-growth-assets-keep-the-uss-afloat/)
+* Mike Otsuka: [Would a shift from bonds to growth assets keep the USS afloat?](https://wonkhe.com/blogs/would-a-shift-from-bonds-to-growth-assets-keep-the-uss-afloat/)
+
+* Denis Leech: [Reply to Sally Hunt ](http://blogs.warwick.ac.uk/dennisleech/entry/reply_to_sally/)
 
 
 Because of these doubts, [University staff are requesting that USS shows it working](https://you.38degrees.org.uk/petitions/uss-must-show-its-workings)
+
+USS responds (17/3/18): [Addressing the facts of the USS valuation](https://www.uss.co.uk/how-uss-is-run/views-from-uss/addressing-the-facts-of-the-uss-valuation)
