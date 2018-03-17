@@ -14,6 +14,9 @@ comments: false
 
 * Petition: [Government should accept a role as guarantor to the USS pension scheme](https://petition.parliament.uk/petitions/214210)
 
+
+* Petition: [Extensions to research funding applications to take account of strike](http://speakout.web.ucu.org.uk/call-for-deadline-extensions-from-research-funding-bodies/)
+
 * Crowdfunder: [Legal investigation into mismanagement by the Board of Trustees of the Universities Superannuation Scheme (USS)](https://www.crowdjustice.com/case/fightforpensions/)
 
 * Boycott: [Some Universities seek to punish those taking strike action - Boycott them](https://ucustrike.wordpress.com/academic-boycott-list)
