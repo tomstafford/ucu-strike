@@ -17,3 +17,4 @@ comments: false
 * Crowdfunder: [Legal investigation into mismanagement by the Board of Trustees of the Universities Superannuation Scheme (USS)](https://www.crowdjustice.com/case/fightforpensions/)
 
 * Boycott: [Some Universities seek to punish those taking strike action - Boycott them](https://ucustrike.wordpress.com/academic-boycott-list)
+	* [List of external examiners who have resigned from these institutions](https://docs.google.com/spreadsheets/d/1-2elwhGtmSZJI-WA2iIlZr_dmodeiiNMV4pDXrbKhxw)
