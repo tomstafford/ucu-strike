@@ -31,7 +31,7 @@ isso: ''
 disqus: ''
 
 permalink: 
-paginate: 5
+paginate: 10
 
 highlighter: rouge
 markdown: kramdown
